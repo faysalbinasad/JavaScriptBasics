@@ -117,6 +117,6 @@ console.log(fruits)
 //Sorting numbers
 console.log ("Sorting numbers")
 
-var scores1 = [12, 003, 19, 16, 14, 003]
+var scores1 = [12, 3, 19, 16, 14, 3]
 
 console.log(scores1.sort((a,b) => a-b))
